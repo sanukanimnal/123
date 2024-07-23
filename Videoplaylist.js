@@ -24,7 +24,7 @@ const videosList = [
 	title: 'man chasing carrot animation'
 },
 {
-	video: 'images/vid-6.mp4',
+	video: 'images/vid-.mp4',
 	title: 'door hinge animation'
 },
 {
